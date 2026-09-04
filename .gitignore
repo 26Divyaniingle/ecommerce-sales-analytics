@@ -46,6 +46,15 @@ wheels/
 .DS_Store
 Thumbs.db
 
+# Scratch / Temporary Script Files
+scratch/
+
+# Power BI Desktop Files (Will be added later by user)
+*.pbix
+*.pbip
+*.Dataset/
+*.Report/
+
 # Raw & Processed CSV Datasets (Large Files - Download via Kaggle)
 data/raw/*.csv
 data/processed/*.csv
